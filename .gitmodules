@@ -1,3 +1,6 @@
 [submodule "module"]
 	path = module
 	url = git@github.com:dolber1985/repoSecond.git
+[submodule "minime"]
+	path = minime
+	url = git@github.com:Giveth/minime.git
